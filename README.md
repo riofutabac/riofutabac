@@ -3,13 +3,13 @@
 <h3 align="center">Curious student, exploring the world of programming languages</h3>
 
 <img align="right" alt="Coding" width="400"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanoycGl4emxsaXhxNmtrdjVjY3FseDZ4Z2t1b3Byd2h2M2xyeHlwMiZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif">
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanoycGl4emxsaXhxNmtrdjVjY3FseDZ4Z2t1b3Byd2h2M2xyeHlwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riofutabac&label=Profile%20views&color=0e75b6&style=flat"
         alt="riofutabac" /> </p>
 
-- 🌱 I’m currently learning **Python, C#, JavaScript, React, React Native**
+- 🌱 I’m currently learning **Python, C#, JavaScript**
 
-- 💬 Ask me about **C++, Java**
+- 💬 Ask me about **C++, Java, JavaScript**
 
 - 📫 How to reach me **alexislapo1@gmail.com**
 
