@@ -66,10 +66,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=riofutabac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riofutabac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=riofutabac&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img height="165" src="https://github-readme-stats-eta-three-53.vercel.app/api?username=riofutabac&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats-eta-three-53.vercel.app/api/top-langs/?username=riofutabac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 
 </div>
 
